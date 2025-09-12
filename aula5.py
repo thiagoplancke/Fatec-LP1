@@ -32,5 +32,3 @@ def triangulo(a,b):
 
 triangulo(6,9)
 
-
-print("olá mundo!")
