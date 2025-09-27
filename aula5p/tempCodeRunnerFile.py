@@ -1,1 +1,1 @@
-x = limite - 1
+print()
